@@ -1,6 +1,5 @@
 # Train Conventional Models with 5-fold HP tuning #
-## Lawrence He and Felipe Giuste (2022-08-09) ##
-### Outcome: 'death90' | 'vent'
+### Outcome: 'ckd_status'
 
 import os
 import numpy as np
@@ -25,8 +24,6 @@ outcome_column='ckd_status'
 num_folds=5
 ## Results dictionary path (output) ##
 model_pkl = models_folder+'HPTuned_'
-
-# LH: just do random forest for now, as it's the fastest to train
 
 ### Conventional Model Classifiers ###
 model_type_list = [
