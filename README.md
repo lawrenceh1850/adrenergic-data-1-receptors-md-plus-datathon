@@ -2,6 +2,8 @@
 
 Lawrence Huang BS, Keyvon Rashidi BSE, Sachin Shankar MS, Dany Alkurdi AB, Felipe Giuste PhD
 
+with adapted code from [Giuste, et al., 2023](https://www.nature.com/articles/s41598-023-36175-4)
+
 <img width="390" alt="image" src="https://github.com/lawrenceh1850/adrenergic-data-1-receptors-md-plus-datathon/assets/26679627/57812536-7056-47e7-9878-f40f60fe3698">
 
 Stages of data processing
